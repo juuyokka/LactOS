@@ -1,0 +1,5 @@
+system:
+  user:
+    enabled:
+      - xdg-desktop-portal-hyprland.service
+      

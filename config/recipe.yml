@@ -11,5 +11,7 @@ modules:
   - type: files
     files:
       - usr: /usr
+  - type: script
+    scripts: modify-os-release.sh
 
   - type: signing
